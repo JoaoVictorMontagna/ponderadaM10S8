@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WebMetric")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0a384cecacb531a957cd6e96efc10ed82c51893e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b75fe51dc546fbb05f2a077caf4bf47b8213f5b6")]
 [assembly: System.Reflection.AssemblyProductAttribute("WebMetric")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WebMetric")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
